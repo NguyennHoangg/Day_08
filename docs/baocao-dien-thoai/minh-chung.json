@@ -1,0 +1,138 @@
+[
+  {
+    "path": "docs/baocao-dien-thoai/buoc-01.png",
+    "title": "Màn hình Đăng nhập"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-02.png",
+    "title": "Đăng nhập: bỏ trống các ô"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-03.png",
+    "title": "Đăng nhập: email sai định dạng và mật khẩu ngắn"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-04.png",
+    "title": "Đăng nhập: sai mật khẩu"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-05.png",
+    "title": "Đăng nhập thành công: tab Tài khoản"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-06.png",
+    "title": "Đăng ký: bỏ trống bốn ô"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-07.png",
+    "title": "Đăng ký: nhập lại mật khẩu không khớp"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-08.png",
+    "title": "Đăng ký: email trùng"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-09.png",
+    "title": "Đăng ký mới: tự đăng nhập và hiện đúng họ tên"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-10.png",
+    "title": "Giữ phiên: trước khi tải lại"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-11.png",
+    "title": "Giữ phiên: sau khi tải lại vẫn đăng nhập"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-12.png",
+    "title": "Đăng xuất rồi tải lại: vẫn chưa đăng nhập"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-13.png",
+    "title": "Chưa đăng nhập: giỏ hàng có một cuốn sách"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-14.png",
+    "title": "Chưa đăng nhập: Thanh toán chuyển sang Đăng nhập"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-15.png",
+    "title": "Đăng nhập xong: trở lại Checkout, tổng 65.000đ"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-16.png",
+    "title": "Đã đăng nhập: vào thẳng Checkout"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-17.png",
+    "title": "Chi tiết: điểm trung bình 4.5 và yêu cầu đăng nhập để đánh giá"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-18.png",
+    "title": "Đánh giá: chưa chọn sao"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-19.png",
+    "title": "Đánh giá: chưa nhập bình luận"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-20.png",
+    "title": "Gửi đánh giá thành công: bài mới xuất hiện ngay"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-21.png",
+    "title": "Số lượng 1: nút giảm bị vô hiệu hóa"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-22.png",
+    "title": "Chi tiết sách: tồn kho 12 cuốn"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-23.png",
+    "title": "Tăng đến tồn kho 12: nút cộng bị vô hiệu hóa"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-24.png",
+    "title": "Tổng tiền: 12 cuốn × 65.000đ = 780.000đ"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-25.png",
+    "title": "Chọn Hủy trong xác nhận xóa: sản phẩm còn nguyên"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-26.png",
+    "title": "Chọn Xóa: giỏ hàng trống"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-27.png",
+    "title": "Lưu giỏ hàng: trước tải lại, số lượng 3"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-28.png",
+    "title": "Lưu giỏ hàng: sau tải lại vẫn số lượng 3"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-29.png",
+    "title": "Xóa hết rồi tải lại: giỏ vẫn trống"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-30.png",
+    "title": "Tim tại Home chuyển sang màu đỏ"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-31.png",
+    "title": "Tim tại Chi tiết đồng bộ với Home"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-32.png",
+    "title": "Danh sách yêu thích: hiển thị hai sách đã lưu"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-33.png",
+    "title": "Bỏ tim một sách: sách đó biến mất khỏi danh sách"
+  },
+  {
+    "path": "docs/baocao-dien-thoai/buoc-34.png",
+    "title": "Bỏ hết tim: trạng thái trống và nút Khám phá sách"
+  }
+]

@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+.npm-cache/
+dist/
+.browser-profile/
+.verify/
+*.zip

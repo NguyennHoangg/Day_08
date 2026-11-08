@@ -1,0 +1,30 @@
+[
+  {
+    "path": "docs/ketqua/mat-khau-an.png",
+    "title": "Đăng nhập – mật khẩu đang ẩn"
+  },
+  {
+    "path": "docs/ketqua/mat-khau-hien.png",
+    "title": "Đăng nhập – bấm 👁 để hiện mật khẩu"
+  },
+  {
+    "path": "docs/ketqua/dang-ky-loi.png",
+    "title": "Đăng ký – lỗi mật khẩu nhập lại không khớp"
+  },
+  {
+    "path": "docs/ketqua/danh-gia.png",
+    "title": "Chi tiết sách – chọn 5 sao và nhập bình luận"
+  },
+  {
+    "path": "docs/ketqua/gio-hang.png",
+    "title": "Giỏ hàng – số lượng, tồn kho và mã giảm giá SALE10"
+  },
+  {
+    "path": "docs/ketqua/thanh-toan.png",
+    "title": "Thanh toán – nhận đúng tổng tiền sau giảm giá"
+  },
+  {
+    "path": "docs/ketqua/yeu-thich.png",
+    "title": "Danh sách yêu thích – sách được khôi phục sau tải lại"
+  }
+]
